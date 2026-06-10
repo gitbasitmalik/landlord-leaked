@@ -1,4 +1,4 @@
-# ⚡ Tenant Survival Guide
+# ⚡ Landlord Leaked
 
 A UK-focused React Native (Expo SDK 54) app that pulls official EPC data for any UK property and returns hyper-targeted, cheap, non-structural DIY energy fixes suitable for renters.
 
