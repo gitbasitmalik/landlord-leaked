@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "tenant-app",
-    "slug": "tenant-app",
+    "name": "Landlord Lead",
+    "slug": "landlord-leak",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -24,6 +24,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "epcBearerToken": "$EPC_BEARER_TOKEN"
     }
   }
 }
